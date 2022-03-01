@@ -14,6 +14,7 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 
 # Methods
 - (iVAE) Variational autoencoders and nonlinear ica: A unifying framework. [[AISTATS20]](https://arxiv.org/pdf/1907.04809.pdf) [[codes]](https://github.com/ilkhem/icebeem/tree/master/models/ivae)
+- (GIN) Disentanglement by Nonlinear ICA with General Incompressible-flow Networks (GIN). [[ICLR20]](https://arxiv.org/pdf/2001.04872.pdf) [[codes]](https://github.com/VLL-HD/GIN)
 
 # Applications
 
