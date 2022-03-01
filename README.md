@@ -1,6 +1,7 @@
 # Awesome Identifiable Models
-This repo is a collection of AWESOME things about identifiable models, mainly focusing on the recent developments of Nonlinear ICA and its extensions,  and including papers, code, etc. Feel free to star and fork.
+This repo is a collection of AWESOME things about identifiable models, mainly focusing on the recent developments on Nonlinear ICA and its extensions, and including papers, codes, etc. Feel free to fork.
 
+![](https://img.shields.io/badge/Resources-@CLeaR_Unimelb-red.svg) ![](https://img.shields.io/badge/License-@MIT-green.svg)
 
 # Theoretical results on ICA
 
