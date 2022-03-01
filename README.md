@@ -48,4 +48,3 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 
 # Our Files
 - A gentle introduction to Nonlinear ICA. [[PPT]](https://github.com/ErdunGAO/Research-Files/blob/main/Identifiable%20Deep%20Generative%20Models.pdf)
-
