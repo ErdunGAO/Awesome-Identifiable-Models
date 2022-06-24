@@ -48,6 +48,8 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 - I Don’t Need u: Identifiable Non-Linear ICA Without Side Information. [[Paper]](https://arxiv.org/pdf/2106.05238.pdf)
 - On the Identifiability of Nonlinear ICA with Unconditional Priors. [[ICLR22workshop]](https://openreview.net/pdf?id=BW44SrOU9g5)
 - Weakly Supervised Representation Learning with Sparse Perturbations. [[arxiv22]](https://arxiv.org/pdf/2206.01101.pdf)
+- WICA: nonlinear weighted ICA. [[arxiv22]](https://arxiv.org/pdf/2001.04147.pdf) [[codes]](https://github.com/kondratevakate/fmri-component-analysis)
+- On the Identifiability of Nonlinear ICA: Sparsity and Beyond. [[arxiv22]](https://arxiv.org/pdf/2206.07751.pdf)
 
 # Applications
 ## Distribution Shift
@@ -67,6 +69,7 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 - Independent Innovation Analysis for Nonlinear Vector Autoregressive Process. [[AISTATS21]](http://proceedings.mlr.press/v130/morioka21a/morioka21a.pdf)
 - Causal Hidden Markov Model for Time Series Disease Forecasting. [[CVPR21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Causal_Hidden_Markov_Model_for_Time_Series_Disease_Forecasting_CVPR_2021_paper.pdf)
 - Provable concept learning for interpretable predictions using variational inference. [[arXiv22]](https://arxiv.org/pdf/2204.00492.pdf) [[codes]](https://github.com/NikRuggeri/CLAP-interpretable-predictions)
+- Partial Disentanglement for Domain Adaptation. [ICML22]
 
 # More interesting papers
 - Desiderata for Representation Learning: A Causal Perspective. [[Paper]](https://arxiv.org/pdf/2109.03795.pdf)
