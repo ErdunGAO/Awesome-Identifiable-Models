@@ -45,12 +45,11 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 - Independent mechanism analysis, a new concept? [[NeurIPS21]](https://proceedings.neurips.cc/paper/2021/file/edc27f139c3b4e4bb29d1cdbc45663f9-Paper.pdf)
 - Properties from mechanisms: an equivariance perspective on identifiable representation learning. [[ICLR22]](https://arxiv.org/pdf/2110.15796.pdf)
 - Nonlinear ICA Using Volume-Preserving Transformations. [[ICLR22]](https://openreview.net/pdf?id=AMpki9kp8Cn)
-- I Don’t Need u: Identifiable Non-Linear ICA Without Side Information. [[Paper]](https://arxiv.org/pdf/2106.05238.pdf)
 - On the Identifiability of Nonlinear ICA with Unconditional Priors. [[ICLR22workshop]](https://openreview.net/pdf?id=BW44SrOU9g5)
 - Weakly Supervised Representation Learning with Sparse Perturbations. [[arxiv22]](https://arxiv.org/pdf/2206.01101.pdf)
 - WICA: nonlinear weighted ICA. [[arxiv22]](https://arxiv.org/pdf/2001.04147.pdf) [[codes]](https://github.com/kondratevakate/fmri-component-analysis)
 - On the Identifiability of Nonlinear ICA: Sparsity and Beyond. [[arxiv22]](https://arxiv.org/pdf/2206.07751.pdf)
-- On Algorithmic Stability in Unsupervised Representation Learning. [[arxiv22]](https://arxiv.org/pdf/2106.05238.pdf) [[codes]](https://github.com/MatthewWilletts/algostability)
+- On Algorithmic Stability in Unsupervised Representation Learning. (Previous version: I Don’t Need u: Identifiable Non-Linear ICA Without Side Information.) [[arxiv22]](https://arxiv.org/pdf/2106.05238.pdf) [[codes]](https://github.com/MatthewWilletts/algostability)
 - Identifiability of deep generative models under mixture priors without auxiliary information. [[arxiv]](https://arxiv.org/pdf/2206.10044.pdf)
 
 # Applications
