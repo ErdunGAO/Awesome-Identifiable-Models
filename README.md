@@ -50,6 +50,8 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 - Weakly Supervised Representation Learning with Sparse Perturbations. [[arxiv22]](https://arxiv.org/pdf/2206.01101.pdf)
 - WICA: nonlinear weighted ICA. [[arxiv22]](https://arxiv.org/pdf/2001.04147.pdf) [[codes]](https://github.com/kondratevakate/fmri-component-analysis)
 - On the Identifiability of Nonlinear ICA: Sparsity and Beyond. [[arxiv22]](https://arxiv.org/pdf/2206.07751.pdf)
+- On Algorithmic Stability in Unsupervised Representation Learning. [[arxiv22]](https://arxiv.org/pdf/2106.05238.pdf) [[codes]](https://github.com/MatthewWilletts/algostability)
+- Identifiability of deep generative models under mixture priors without auxiliary information. [[arxiv]](https://arxiv.org/pdf/2206.10044.pdf)
 
 # Applications
 ## Distribution Shift
