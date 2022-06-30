@@ -6,7 +6,7 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 # Theoretical results on ICA
 
 ## Linear ICA
-- Independent Component Analysis. [[Book]](https://www.cs.helsinki.fi/u/ahyvarin/papers/bookfinal_ICA.pdf)
+- [x] Independent Component Analysis. [[Book]](https://www.cs.helsinki.fi/u/ahyvarin/papers/bookfinal_ICA.pdf)
 - Binary Independent Component Analysis via Non-stationarity. [[Paper]](https://arxiv.org/pdf/2111.15431.pdf)
 
 ## Nonlinear ICA
@@ -50,7 +50,9 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 - Nonlinear ICA Using Volume-Preserving Transformations. [[ICLR22]](https://openreview.net/pdf?id=AMpki9kp8Cn)
 - On the Identifiability of Nonlinear ICA with Unconditional Priors. [[ICLR22workshop]](https://openreview.net/pdf?id=BW44SrOU9g5)
 - On the Identifiability of Nonlinear ICA: Sparsity and Beyond. [[arxiv22]](https://arxiv.org/pdf/2206.07751.pdf)
-- Identifiability of deep generative models under mixture priors without auxiliary information. [[arxiv]](https://arxiv.org/pdf/2206.10044.pdf)
+- Posterior Collapse and Latent Variable Non-identifiability. [[nips21]](https://proceedings.neurips.cc/paper/2021/file/2b6921f2c64dee16ba21ebf17f3c2c92-Paper.pdf)
+- Identifiable Deep Generative Models via Sparse Decoding. [[arxiv22]](https://arxiv.org/pdf/2110.10804.pdf) [[codes]](https://github.com/gemoran/sparse-vae-code)
+- Identifiability of deep generative models under mixture priors without auxiliary information. [[arxiv22]](https://arxiv.org/pdf/2206.10044.pdf)
 
 ## Intervened latents
 - Weakly Supervised Representation Learning with Sparse Perturbations. [[arxiv22]](https://arxiv.org/pdf/2206.01101.pdf)
