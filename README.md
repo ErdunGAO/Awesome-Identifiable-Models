@@ -69,7 +69,7 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 - [x] Few-shot Domain Adaptation by Causal Mechanism Transfer. [[ICML20]](https://arxiv.org/pdf/2002.03497.pdf) [[codes]](https://github.com/takeshi-teshima/few-shot-domain-adaptation-by-causal-mechanism-transfer)
 - [x] &#x1F60D; Partial Disentanglement for Domain Adaptation. [ICML22]
 - [x] Provable concept learning for interpretable predictions using variational inference. [[arXiv22]](https://arxiv.org/pdf/2204.00492.pdf) [[codes]](https://github.com/NikRuggeri/CLAP-interpretable-predictions)
-- [x] Disentanglement and Generalization Under Correlation Shifts. [[arxiv22]](https://arxiv.org/pdf/2112.14754.pdf)
+- [x] Disentanglement and Generalization Under Correlation Shifts. [[CoLLAs22]](https://arxiv.org/pdf/2112.14754.pdf)
 - [ ] Invariant Causal Representation Learning for Out-of-Distribution Generalization. [[ICLR22]](https://openreview.net/pdf?id=-e4EXDWXnSn)
 
 ## Others
