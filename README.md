@@ -11,7 +11,7 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 
 ## Nonlinear ICA
 ### Temporal Structures
-- [x] &#x1F60D (TCL) Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA. [[NeurIPS16]](https://www.cs.helsinki.fi/u/ahyvarin/papers/NIPS16.pdf) [[Codes]](https://github.com/hmorioka/TCL)
+- [x] &#x1F60D; (TCL) Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA. [[NeurIPS16]](https://www.cs.helsinki.fi/u/ahyvarin/papers/NIPS16.pdf) [[Codes]](https://github.com/hmorioka/TCL)
 - [x] (PCL) Nonlinear ICA of Temporally Dependent Stationary Sources. [[AISTATS17]](https://www.cs.helsinki.fi/u/ahyvarin/papers/AISTATS17.pdf)
 
 ### Auxiliary Information
