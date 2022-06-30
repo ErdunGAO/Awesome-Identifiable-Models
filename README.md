@@ -7,12 +7,12 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 
 ## Linear ICA
 - [x] Independent Component Analysis. [[Book]](https://www.cs.helsinki.fi/u/ahyvarin/papers/bookfinal_ICA.pdf)
-- Binary Independent Component Analysis via Non-stationarity. [[Paper]](https://arxiv.org/pdf/2111.15431.pdf)
+- [x] Binary Independent Component Analysis via Non-stationarity. [[Paper]](https://arxiv.org/pdf/2111.15431.pdf)
 
 ## Nonlinear ICA
 ### Temporal Structures
-- (TCL) Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA. [[NeurIPS16]](https://www.cs.helsinki.fi/u/ahyvarin/papers/NIPS16.pdf) [[Codes]](https://github.com/hmorioka/TCL)
-- (PCL) Nonlinear ICA of Temporally Dependent Stationary Sources. [[AISTATS17]](https://www.cs.helsinki.fi/u/ahyvarin/papers/AISTATS17.pdf)
+- [x] &#x1F60D (TCL) Unsupervised Feature Extraction by Time-Contrastive Learning and Nonlinear ICA. [[NeurIPS16]](https://www.cs.helsinki.fi/u/ahyvarin/papers/NIPS16.pdf) [[Codes]](https://github.com/hmorioka/TCL)
+- [x] (PCL) Nonlinear ICA of Temporally Dependent Stationary Sources. [[AISTATS17]](https://www.cs.helsinki.fi/u/ahyvarin/papers/AISTATS17.pdf)
 
 ### Auxiliary Information
 - (GCL) Nonlinear ICA Using Auxiliary Variables and Generalized Contrastive Learning. [[AISTATS19]](https://arxiv.org/pdf/1805.08651.pdf)
