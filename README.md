@@ -67,7 +67,7 @@ This repo is a collection of AWESOME things about identifiable models, mainly fo
 - [ ] On Linear Identifiability of Learned Representations. [[ICML21]](http://proceedings.mlr.press/v139/roeder21a/roeder21a.pdf)
 - [x] (IC-ERM) Towards efficient representation identification in supervised learning. [[CLeaR22]](https://openreview.net/pdf?id=7UwoSnMDXWE) [[codes]](https://github.com/divyat09/ood_identification)
 - [x] Few-shot Domain Adaptation by Causal Mechanism Transfer. [[ICML20]](https://arxiv.org/pdf/2002.03497.pdf) [[codes]](https://github.com/takeshi-teshima/few-shot-domain-adaptation-by-causal-mechanism-transfer)
-- [x] &#x1F60D; Partial Disentanglement for Domain Adaptation. [ICML22]
+- [x] &#x1F60D; Partial Disentanglement for Domain Adaptation. [ICML22](https://proceedings.mlr.press/v162/kong22a/kong22a.pdf) [[codes]](https://proceedings.mlr.press/v162/kong22a.html)
 - [x] Provable concept learning for interpretable predictions using variational inference. [[arXiv22]](https://arxiv.org/pdf/2204.00492.pdf) [[codes]](https://github.com/NikRuggeri/CLAP-interpretable-predictions)
 - [x] Disentanglement and Generalization Under Correlation Shifts. [[CoLLAs22]](https://arxiv.org/pdf/2112.14754.pdf)
 - [ ] Invariant Causal Representation Learning for Out-of-Distribution Generalization. [[ICLR22]](https://openreview.net/pdf?id=-e4EXDWXnSn)
